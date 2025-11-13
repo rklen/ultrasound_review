@@ -1,0 +1,673 @@
+10.1007/s11548-024-03170-7;;no segmentation;;;;;;;;
+10.3390/diagnostics15070848;review;;;;;;;;;
+10.3390/s25082361;review;;;;;;;;;
+10.1016/j.compbiomed.2024.108794;;;;uteri;nnu-net;3d transvaginal;;;0.90;
+10.3390/bioengineering11101047;;;;thyroid nodule;cnn/transformer hybrid;;TN3K and TNUI-2021;;0.9002;
+10.1109/JBHI.2024.3399762;;;;fetal head and pubic symphysis;a new res-net;;;;0.908;hd: 3.396mm
+10.1186/s42492-025-00197-8;review;;;;;;;;;
+10.1117/1.JMI.11.4.044505;;;;ovarian/adnexal masses;u-net with fcm;transvaginal;private;54;0.91;the ratio of the Hausdorff distance to the effective diameter of the outline: 0.04
+10.1016/j.ultrasmedbio.2024.05.001;animals;;;;;;;;;
+10.1088/1361-6560/ad4d53;;;;breast tumors;global and local feature interaction model;3d automated breast ultrasound (abus);private and public;;;
+10.1002/jum.16489;;;;gastrointernal stromal tumors;SegNeXt-ResNet18;transabodmial ultrasound;private;1168;0.902;iou: 0.821
+10.1002/mp.17498;;;;papillary thyroid carcinoma tumors;mask r-cnn;ultrasound video frames;private;;0.88;
+10.3389/fonc.2024.1519536;;;;biopsy needle;cnn/transformer hybrid;ultrasound biopsy video;private;;0.817;iou: 0.731
+10.1016/j.compmedimag.2025.102523;;;;liver lesion;a new cnn;;;;;
+10.1186/s12880-025-01621-4;;not about segmentation;;;;;;;;
+10.3390/diagnostics14182008;;review;;;;;;;;
+10.1038/s41598-024-76308-x;;;;breast tumor;an autoencoder cnn with contour models;;public;993;0.86;
+10.1088/1361-6560/ad61b6;;;;breast masses;multi-scale selection network;;private and UDIAT, BUSI and TUH;28 477;0.9319;
+10.3389/fphys.2024.1432987;;;;multiple;cnn/transformed hybrid;;TN3K, BUS-BRA, and CAMUS;;0.9033;iou: 0.8251, hd95: 2.82mm
+10.3389/fonc.2025.1567577;;;;breast tumor;multi-task learning network;;BUS;;;
+10.1038/s41597-024-03266-4;a dataset;;;;;;;;;
+10.1016/j.compbiomed.2024.109174;;;;periodontal structures (alveolar bone structure);diffusion-based network;intraoral ultrasound videos;private;210;0.901;mean distance difference of 0.17
+10.3389/fped.2024.1453302;;;;gestational sack;resunet;;private;500;0.978;iou: 0.948
+10.1177/20552076241291306;;;;kidneys;modified u-net;;wd-kus and open kidney dataset;45380;0.902;Average Symmetric Surface Distance (ASSD): 2.87mm
+10.1016/j.compbiomed.2024.108616;;;;breast tumor;cnn/transformer hybrid;;BUSI, BUI, and DDTI;305;0.9079;
+10.1177/01617346241276411;;;;breast tumor;modified u-net;;BUS;;0.8938;iou: 0.8871
+10.1038/s41598-024-69427-y;;;;ovarian cyst;modified resu-net;;;;;
+10.1007/s40477-025-01019-6;;;;wrist and elbow fracture;a multi-channel u-net;;;5309;;
+10.1109/TMI.2025.3600327;;;;multiple;a new frequency fusion model;;public;;;
+10.1186/s13244-024-01874-7;;;;adnexal masses;FCN ResNet101;;private;663;0.891;
+10.1002/mp.17291;;;;carotid artery walls;gan/cnn combination;3d us;;669;0.862;
+10.1016/j.compbiomed.2025.109669;no deep learning;;;;;;;;;
+10.1016/j.cmpb.2024.108540;;;;breast tumor;a multi-task framework;;BUSI;;;
+10.1109/JBHI.2025.3529483;;;;carotid plaque;a multi-task framework;;private;1270;0.8492;
+10.1007/s11517-024-03216-7;;;;abdomial aortic aneurysms and intraluminal thrombus;nnu-net;3d us;;;;hd: 4.4mm
+10.1016/j.compbiomed.2024.108501;;;;fetal head and pubic symphysis;a cnn;;;;;
+10.1016/j.euros.2025.03.005;;;;prostate and its zones;u-net;3d contrast-enhanced us and b-mode images;private;259;0.94;
+10.1007/s11517-025-03301-5;;;;breast tumor;modified u-net;;BUET, BUSI, Mendeley, OMI, and UDIAT;;;
+10.1088/1361-6560/adae4d;;;;breast tumor;a multi-task framework;;BUSI and BUS-B;;0.8641;
+10.3390/bioengineering11121291;;;;rectus femoris muscle;automatic segment anything model;;private;257;;
+10.1016/j.ejmp.2025.104969;;;;breast tumor;cnn/transformer hybrid;;BUSI, UDIAT, and BLUI;;0.901;
+10.3390/cancers16223777;;;;breast tumor;modified u-net;;BUSI;;;
+10.1186/s13058-024-01909-3;not about segmentation;;;;;;;;;
+10.3389/fonc.2024.1417330;not about segmentation;;;;;;;;;
+10.1016/j.ultrasmedbio.2024.11.020;;;;breast tumor;modified u-net;;;;0.7823;iou: 0.6860
+10.1016/j.media.2024.103353;a segmentation challenge report;;;;;;;;;
+10.1038/s41597-025-04467-1;a dataset;;;;;;;;;
+10.1109/TMI.2024.3472672;;;;multi-organ;cnn/transformer hybrid;;;7039;;
+10.1109/JBHI.2025.3580275;;;;multiple;a semi-supervised frame-work;;;;;
+10.1109/JBHI.2025.3602007;;;;fetal head and pubic symphysis;transformer-based semi-supervised network;;FH-PS-AoP;;;
+10.3389/frai.2025.1618607;;;;multiple;cnn/transformer hybrid;;private;34711;;
+10.1109/JBHI.2025.3584505;not about segmentation;;;;;;;;;
+10.1007/s11548-024-03294-w;;;;thyroid nodules;modified u-net;;private;1595;0.922;hd: 12.9%
+10.1097/WCO.0000000000001306;review;;;;;;;;;
+10.3390/jcm14061828;;;;lymph nodes;mask r-cnn;;;;;
+10.1080/13645706.2025.2449699;;;;placenta;a cnn;;;;0.84;
+10.1109/JBHI.2025.3535541;;;;thyroid nodules;weakly-supervised learning framework;;;;;
+10.1109/JBHI.2025.3581686;;;;carotid plaque;a multi-task framework;;;;0.8464;
+10.3389/fmed.2024.1381758;;no ultrasound;;;;;;;;
+10.1016/j.ijcard.2025.133744;;;;coronal arterial plaque;u-net++;;private;1098;;
+10.1038/s41598-025-16275-z;;animals;;;;;;;;
+10.1109/EMBC53108.2024.10781870;;no deep learning;;;;;;;;
+10.1002/jcu.23924;;;;fetal cerebellum;a cnn;;;;0.956;
+10.1016/j.ultrasmedbio.2024.11.004;;;;quadriceps femoris;a cnn;;private;;;
+10.1109/TIP.2024.3407657;;;;multiple;a multi-task learning framework;;;;;
+10.1038/s41598-025-12602-6;;;;thyroid nodules;a new dl architecture;;;134;;
+10.1016/j.ultrasmedbio.2024.08.002;;;;shear wave;u-net;;;19474;0.74;
+10.1002/mp.18025;not about a dl technique;;;;;;;;;
+10.11152/mu-4535;;not about segmentation;;;;;;;;
+10.3389/fmed.2025.1589356;;;;ovarian tumor;modified u-net++;;;;0.9563;iou: 0.9184
+10.1088/2057-1976/ad3bba;;;;bone structure;modified u-net;;;;0.8876;
+10.1109/TUFFC.2024.3393026;;;;ventricular endocardium, the myocardium, and the left atrium;pix2pix gan;;CAMUS;;0.961;
+10.1186/s12911-025-03029-0;;no ultrasound;;;;;;;;
+10.1007/s00247-025-06249-8;;not about segmentation;;;;;;;;
+10.1007/s12021-024-09706-1;;animals;;;;;;;;
+10.3390/diagnostics15080944;;;;breast tumor;modified u-net;;private and BUSI;;0.9045;
+10.1109/JBHI.2025.3602655;;;;fetal head;a semi-supervised framework;;HC18 and PSFH;;0.9536;
+10.1038/s41597-025-04562-3;a dataset;;;;;;;;;
+10.1016/j.compmedimag.2024.102437;;;;lumen from common carotid artery;attention network;;private;407;;
+10.1186/s12880-024-01521-z;;;;thyroid nodules;modified u-net++;;;;0.8310;iou: 0.7451, hd95: 35.31
+10.1136/ijgc-2024-005652;;;excluded (no information about the dl model in the full-text);;;;;;;
+10.1109/isbi60581.2025.10981266;;not about deep learning;;;;;;;;
+10.1186/s12880-024-01415-0;;;;thyroid gland;modified u-net;;;;;
+10.1109/OJEMB.2024.3382487;;;;fetal head;prompt-based learning;;;;0.90117;HD: 1.86484, ASD: 0.46645
+10.1016/j.heliyon.2024.e30528;;"other reason (states in the abstract that ""over 30 billion"" people die of liver cancer, rises questions about the overall quality)";;;;;;;;
+10.1016/j.ijmedinf.2024.105522;;not about segmentation;;;;;;;;
+10.1002/mp.17377;;no deep learning;;;;;;;;
+10.1016/j.neunet.2024.106754;;;;thyroid nodules;modified u-net;;private;;0.912;
+10.1007/978-3-031-73647-6_13;;;;placenta;segment anything model;;;;;
+10.1016/j.eclinm.2024.102923;;;;ovary and ovarian mass;attention network;;;8472;0.887;
+10.1016/j.bja.2024.12.040;not about segmentation;;;;;;;;;
+10.1109/EMBC53108.2024.10781719;;;;breast tumor;segment anything model;;BUS;;;
+10.1038/s41598-024-70527-y;;;;liver;a cnn;;;;0.921;iou: 0.854
+10.1186/s12880-024-01385-3;no ultrasound;;;;;;;;;
+10.1186/s12911-024-02527-x;;;;fetal heart anatomy structures;nnu-netv2;;private;1083;0.8711;iou: 0.7768
+10.1038/s41598-024-61238-5;;;;prostate;a cnn-based method;transrectal;;;0.9674;iou: 0.9371
+10.3390/bioengineering12040350;;;;kidney disease;a cnn with firefly sigma seeker;;;;;
+10.3390/bioengineering11080812;;no deep learning;;;;;;;;
+10.1109/JBHI.2024.3464732;;not about segmentation;;;;;;;;
+10.1007/s10151-024-03056-5;;;;colorectal carcinomas;a cnn;endoscopic ultrasound;private;373;0.82;hd: 17.7 pixels
+10.1109/TUFFC.2024.3389553;;;;abdominal aortic aneurysm;nnu-net;3d;private;2495;;
+10.1007/s10554-024-03221-9;;;;lumen and external elastic membrane;cnn/transformer hybrid;intravascular ultrasound;private;1240;0.966;
+10.1109/TBME.2025.3595981;;;;breast tumor;segment anything model 2;;;;0.8266;
+10.1615/CritRevBiomedEng.v53.i1.40;;;;ovarian cancer;multi-scale fusion;;;;;
+10.7717/peerj-cs.2226;;;;breast tumor;modified resu-net;;;;0.93;
+10.1016/j.compbiomed.2024.109274;;not about segmentation;;;;;;;;
+10.1109/EMBC53108.2024.10782677;;;;surgical needle;recurrent u-net;videos;;192;0.85;iou: 0.76
+10.1109/OJEMB.2025.3537560;;;;sarcopenia;semi-supervised cnn approach;;private;154;;
+10.1016/j.ultrasmedbio.2024.06.001;;;;myocardium;cnn/transformer hybrid;myocardial contrast echocardiography;;;0.8435;
+10.3791/66972;not about segmentation;;;;;;;;;
+10.1038/s41598-025-95957-0;;;;follicle;a cnn;;USOVA3D and private;;0.83;iou: 0.714, mAP: 0.957
+10.1016/j.compbiomed.2024.109162;no deep learning;;;;;;;;;
+10.1038/s41598-025-11688-2;;;;multiple;modified u-net;;;;;
+10.1007/s10278-025-01487-6;;;;breast tumor;cnn/transformer hybrid;;BUSI and OASBUD;;0.8594;
+10.1109/JBHI.2025.3543435;;;;breast tumor;modified u-net;video;;;;
+10.1109/EMBC53108.2024.10782048;;;;bony structures of wrist;visual in-context learning;;;3822;0.96;iou: 0.92
+10.1536/ihj.23-638;;;;left ventricle;cnn/transformer hybrid;echocardiography;EchoNet-Dynamic and private;;0.942;
+10.1109/EMBC53108.2024.10782780;;;;thyroid nodules;modified u-net;;private;;;
+10.1117/1.JMI.11.3.034504;;;;endometrium;modified segment anything model;;private;;0.7631;iou: 0.6371
+10.1038/s41467-025-59451-5;;;;left ventricle;self-supervised method;echocardiograms;;18423;;
+10.1109/JBHI.2025.3589293;;;;multiple;modified u-net;;;;;
+10.1007/s13534-024-00375-2;;;;thyroid nodules;multi-scale framework;;;;0.9390;iou: 0.8885, mAP: 0.9427
+10.1109/access.2024.3394808;;;;breast tumor;modified u-net;;public;;0.86;
+10.1088/1361-6560/ad450b;;;;biopsy needle;cnn/transformer hybrid;3d;;;0.771;
+10.1016/j.compbiomed.2025.110377;;animals;;;;;;;;
+10.1109/JBHI.2024.3400802;;no deep learning;;;;;;;;
+10.1109/JBHI.2025.3565311;;;;multiple;a cnn;;public;;;
+10.3389/fphys.2025.1629637;;;;carotid plaques;a cnn;;private;287;0.8995;iou: 0.8891
+10.1109/JBHI.2024.3390688;;;;fetal vessels;a cnn;;private;;;
+10.1016/j.ultras.2024.107498;;animals;;;;;;;;
+10.1007/s13246-025-01564-8;;;;multiple;cnn/transformer hybrid;;;;;
+10.1117/12.3005879;;;;breast tumor;modified segment anything model;;;;;
+10.3390/diagnostics14131423;;;;perimetrium;modified mamba;transvaginal;private;1940;;hd95: 14.56
+10.1016/j.wneu.2025.124001;review;;;;;;;;;
+10.1007/s10278-025-01436-3;;;;thyroid nodules;modified deeplabv3+;;private and two public;;0.8839;iou: 0.7969
+10.1117/1.JMI.12.2.027001;;;;multiple;modified segment anything model;;;;0.9358;iou: 0.8793
+10.1038/s41598-025-85632-9;;;;spleen;pix2pix/transformer hybrid;;private;450;0.9682;iou: 0.9417
+10.1007/s12672-025-02889-2;;;;breast tumor;yolov8;;;780;0.8440;
+10.1016/j.compmedimag.2024.102381;;no deep learning;;;;;;;;
+10.1016/j.compbiomed.2024.109000;;;;fetal structures;modified u-net;;;;0.991;hd: 1.01, assd: 0.25
+10.1007/s10278-025-01565-9;;;;transverse thoracic plane (muscle, lungs, bones);modified u-net;;;2329;;iou: 0.9763
+10.1007/s11548-024-03204-0;;;;muscles;a cnn;wearable ultrasound devices;;;;
+10.1016/j.ymeth.2025.04.016;review;;;;;;;;;
+10.1016/j.ultrasmedbio.2025.08.008;;;;Vastus Lateralis and Adipose Tissue;modified u-net;;;612;0.9654;
+10.1016/j.ultrasmedbio.2024.04.013;;;;endocardium;semi-supervised multilevel edge perception and calibration fusion;echocardiographic video;;;0.9393;
+10.1016/j.euros.2024.01.017;;;;kidney;deeplabv3;sonographic ultrasound;;523;0.9474;
+10.1109/TUFFC.2025.3605285;;;;multi-organ;vision-language model with segment anything model 2;;18 public datasets;;;
+10.1038/s41598-025-92380-3;;no deep learning;;;;;;;;
+10.1002/cbf.4054;;no deep learning;;;;;;;;
+10.1109/TBME.2025.3594704;;;;multiple;modified segment anything model;;;;;
+10.1016/j.neunet.2024.107095;;;;multiple;multi-scale framework;;;;;
+10.1002/mp.17503;;;;musculoskeletal structures;modified u-net;;;5451;;iou: 0.9014
+10.3171/2025.3.JNS241995;not about segmentation;;;;;;;;;
+10.1016/j.cmpb.2025.109065;;;;lumen;modified u2-net;;;9418;0.91;
+10.1016/j.ultrasmedbio.2024.05.005;;;;levator hiatus;deeplabv3+;3d;;600;0.93;
+10.1016/j.ultrasmedbio.2024.06.009;;;;kidney;modified cyclegan;;public;;0.8548;
+10.21037/qims-2024-2523;;;;musculoskeletal structures;modified u-net;;public;;;iou: 0.7227
+10.1109/EMBC53108.2024.10782614;;no deep learning;;;;;;;;
+10.3389/frai.2025.1613960;;;;uterine fibroids;nnu-net;;private;;0.90;
+10.1002/hbm.70058;;;;fetal intracranial volume;a cnn;3d;;43492;0.93;hd: 4.6 voxels
+10.3390/diagnostics15151978;;;;renal structures;modified u-net;;Open Kidney US Data Set;;0.9383;iou: 0.8874, hd95: 32.02 mm
+10.1016/j.media.2025.103601;;;;multiple;Neural Cellular Automata;;;;;
+10.1016/j.ultrasmedbio.2025.02.013;;;;scoliosis bone feature;swin transformer;;;1279;0.856;iou: 0.745
+10.1038/s41597-025-05619-z;animals;;;;;;;;;
+10.1080/24699322.2025.2523266;;;;multiple;modified u-net;;busi and ddti;;0.8167;iou: 0.7172
+10.1186/s12938-024-01230-2;;;;fetal vessels;modified deeplabv3;;;511;0.8912;
+10.1109/JBHI.2025.3584236;;;;fetal structures;semi-supervised framework;;;;;
+10.21037/qims-23-1698;;;;prostate;gan;transrectal;private and µRegPro;;0.9006;iou: 0.8411
+10.1002/mp.17242;;;;neonatal ventricular;semi-supervised framework;3d;;887;;
+10.1016/j.ultrasmedbio.2024.12.014;;;insufficient details in abstract, full-text cannot be retrieved;;;;;;;
+10.1016/j.isci.2024.111012;;;;left chamber;u-net;contrast transthoracic echocardiography images and videos;;1866;0.9141;
+10.1007/s11548-025-03517-8;;;;multiple;segment anything model;;43 public datasets;282000;;
+10.1177/01617346241277178;;;;synovium in fingerjoints;a cnn;;;;0.768;iou: 0.684
+10.1016/j.compbiomed.2025.110527;;;;breast tumor;feature fusion network with transformer;;;;;
+10.1016/j.compbiomed.2024.109188;;;;fetal heart;ensemble model;;;;;
+10.1016/j.ejrad.2024.111602;no ultrasound;;;;;;;;;
+10.3390/diagnostics15020117;;;;liver;u-net;;;;0.921;
+10.3389/frai.2025.1618426;;;;thyroid nodules;transformer;;AIMI, TN3K, and DDTI;;0.65;
+10.1021/acsomega.5c06107;no deep learning;;;;;;;;;
+10.1016/j.compbiomed.2025.111077;;;;colon wall;modified u-net;;C-TRUS;;0.7780;
+10.3390/cancers16213674;;;;liver vessels;u-net;;;;0.92;
+10.1109/TUFFC.2025.3539262;;;;breast tumor;modified Kolmogorov-Arnold Network;;;;0.8130;iou: 0.6942, hd: 3.31
+10.1016/j.ijom.2025.01.012;;;;midfacial bone surface;nnu-net;;;;0.893;assd: 0.11mm
+10.1109/JBHI.2025.3546345;;;;breast tumor;attention network;;Dataset-B, BUSI and private;;;iou: 0.9032, assd: 3.31 pixels
+10.1016/j.cmpb.2025.108758;;;;liver;multi-scale feature fusion;;;;;mAP@0.5: 0.948
+10.1038/s41598-025-99783-2;;no deep learning;;;;;;;;
+10.1109/JBHI.2024.3514134;;;;breast tumor;fusion network;;three public datasets;;;
+10.1002/jbio.202400420;;no ultrasound;;;;;;;;
+10.1007/s00701-024-06179-8;;no deep learning;;;;;;;;
+10.1016/j.media.2025.103639;;;;multiple;foundation network;;m2-us;;;
+10.1007/s10278-025-01392-y;;;;breast tumor;modified u-net;;three public datasets;;;
+10.3390/diagnostics15080988;;not about segmentation;;;;;;;;
+10.1016/j.ejmp.2025.104993;;;;breast tumor;poolformer;;BUSI, OASBUD, RODTOOK and UDIAT;;0.777;
+10.1186/s12880-024-01486-z;not about segmentation;;;;;;;;;
+10.5173/ceju.2024.0249;not about segmentation;;;;;;;;;
+10.1016/j.repbio.2025.101021;not about segmentation;;;;;;;;;
+10.1016/j.jconrel.2024.04.001;;animals;;;;;;;;
+10.1007/s11547-024-01826-7;;no deep learning;;;;;;;;
+10.1007/s10278-025-01440-7;;no ultrasound;;;;;;;;
+10.7717/peerj-cs.2146;;;;nerve;cnn/transformer;;public;;;
+10.1007/s10278-025-01648-7;;;no access;Intra-operative tumor imaging; modified unet;;public (RESECT, ReMIND);;;
+10.1002/mp.17751;;;;Breast cancer;Swin Transformer and Segment Anything Model (SAM);;private and public (BUSI dataset);;;Miou: 90.82 (private)
+10.1186/s12938-025-01388-3;;;;anterior segment;yolov8;;private;;;MIOU: 88.36
+10.1016/j.media.2024.103256;not about segmentation;;;;;;;;;
+10.1007/s11548-024-03249-1;no deep learning;;;;;;;;;
+10.1088/2057-1976/ad4f91;review;;;;;;;;;
+10.3390/cancers17020315;;;;Intra-operative (brain tumor);nnu-net;;public;;0.90;Assd 8.51
+10.3390/s24216890;;;;breast ;maskformer (transformer);;busi;;;F1 91.2
+10.1016/j.compbiomed.2025.110435;CT are registered to US;;;;;;;;;
+10.1016/j.compbiomed.2024.109514;animals;;;;;;;;;
+10.1016/j.compmedimag.2025.102570;;;no access to check;popliteal region;improved unet;;private;1450;0.9395;Iou 88.60
+10.21037/qims-2024-2476;;;;prostate;unet;;private;438;;Iou: 96.02
+10.3389/frai.2025.1572433;;;;breast cancer;cnn based model;;public;1036;0.9901;Iou: 98.04%
+10.1109/EMBC53108.2024.10782786;;;;breast cancer;multi-input attention U-NET;video;private;;0.7245;
+10.1002/mp.17647;;;;breast ;cnn;;public/private;1775;0.8288;Iou 74.79
+10.1016/j.ultrasmedbio.2025.03.009;;;no access;breast ;improved unet;;BUSIS and Dataset B;;;
+10.1016/j.cmpb.2024.108460;;;;carotid plaque;cnn;Carotid B-mode ultrasound (CBUS);private;276;0.844;
+10.1109/TMI.2024.3394045;;;;"Thyroid Nodules
+";cnn;;public;2732;0.963;
+10.1007/s10278-024-01168-w;;;;Myositis inflammation;Unet + transformer bottleneck ;;;;;
+10.21037/qims-2024-2561;;;;breast ;modified unet (transformer/cnn/mamba);;public;943;0.8797;
+10.1111/jgh.16814;;;;pancreatic lesion;segformer;;private ;1497;;MIOU: 73.0
+10.1038/s41746-025-01730-y;;;;left ventricle ;fine tuned SAM;echocardiography, -, video;2 of them public, and private;;0.891;
+10.1007/s10278-025-01537-z;;;;breast cancer;modified unet;;BUSI;;0.8288;Iou 77.5
+10.3390/bioengineering12030311;;;;Lung ultrasound;Transformer / cnn (modified unet);;private (need request);;0.80;HF 15.13
+10.1002/mp.17545;;;;bone ;cnn based model (dual decoder);;private;590;0.8751;
+10.1007/s11517-025-03320-2;;;;;;;;;;
+10.1186/s12938-024-01299-9;review;;;;;;;;;
+10.1007/s11517-025-03323-z;;;;vascular;cnn based model;;public/ private/private (CUBS, IVUS-plaque/calcium and IVUS-lumen);;0.930;Iou:87.0
+10.1117/12.3047410;;;;Placenta volume;cnn based model;3D;private;124;0.980;
+10.1007/s00247-024-06132-y;;;no acess;;;;;;;
+10.1364/BOE.529505;;;;breast cancer;cnn based model;;busi;;0.8069;Miou 67.64
+10.1186/s12880-025-01720-2;;;;thoracolumbar fascia;unet;;private ;536;0.76;MioU: 82.0
+10.1016/j.ultrasmedbio.2024.11.016;;;;brain sulci;ResU-Net;cranial ultrasound ;private;;0.777;
+10.1016/j.compmedimag.2024.102490;;;;Parkinson disease ;unet;;private;422;0.910;
+10.1007/s11548-025-03347-8;no deep learning;;no sufficient details in abstract;;;;;;;
+10.1016/j.media.2025.103602;;;;cardiac ;cnn based model;cardiac ultrasound dataset;public (camus);;0.9381;Hd:15.28
+10.1016/j.neunet.2024.106367;;;;;;;;;;
+10.3389/fonc.2025.1522399;no ultrasound;;;;;;;;;
+10.1007/s10278-025-01690-5;;;no access;prostate;transformer/cnn;transrectal ultrasound;private;100;;Miou 94.4
+10.3389/fonc.2025.1456563;;;;thyroid nodules;enhanced swin unet;;private;600;0.7212;Iou 52.13
+10.1038/s41598-025-08711-x;;;;uterin fibroids;cnn based model;;private;140;;Miou 75.95
+10.1016/j.compbiomed.2025.110736;;;;breast cancer;cnn/transformer/mamba;;busi;;0.9219;Iou 82.19
+10.1109/JBHI.2025.3599716;;;no access;placenta, gestational sac, thyroid nodules;cnn/mamba;;;;;
+10.3390/medicina61081497;review;;;;;;;;;
+10.3390/s24144668;review;;;;;;;;;
+10.1016/j.clinimag.2025.110440;no ultrasound;;;;;;;;;
+10.1007/s11517-025-03304-2;;;;breast cancer;cnn/transformer;;busi;;0.8870;
+10.1016/j.medengphy.2025.104383;;;;median nerve and transverse carpal ligament;unet ;;private;;0.870;
+10.7507/1001-5515.202311054;;;;breast cancer;new attention unet;;busi and dataset B;;0.8359;Iou 77.78
+10.7507/1001-5515.202412009;;;no access;thyroid nodule;;;TN3K and DDTI;;0.8724;
+10.1002/mp.17579;;;;Dialysis access (DA) vascular lumen;cnn;;private;1710;0.9777;Miou 95.63
+10.1155/ijbi/3309822;;;;breast and thyroid lesion;transunet;;busi and private;;0.5333;iou 45.23
+10.1136/bmjophth-2023-001600;;;;Anterior segment structures;unet based;ultrasound biomicroscopy;private;2339;;Miou 97.0
+10.1038/s41598-024-84504-y;;;;breast cancer;modified UNet ;;busi;;"0.6140
+";Iou 53.05
+10.1002/jum.16750;;Animals;;;;;;;;
+10.1213/XAA.0000000000002040;;;;nerve block regions;r2unet (modified unet);;public;;0.7619;
+10.1016/j.ultrasmedbio.2025.04.006;;;;neural structures;cnn based model;;Puhlic-private (BUSI-Neck Ultrasound Dataset);1500;0.933;
+10.1038/s41597-024-04159-2;;no orginal research Benchmark;;;;;;;;
+10.1109/EMBC53108.2024.10782185;;The goal is not segmentation. It uses to classify tears.;;;;;;;;
+10.1007/s10278-024-01142-6;;;no access;Breast fibroadenomas;;;Public-private;;;Miou: 86.06
+10.1016/j.neunet.2025.107312;;;;breast cancer;CNN/Transformer;Automated Breast Volume Scanner (ABVS)  3D;private;198;0.7365;Iou 61.10
+10.1038/s41598-025-04631-y;;;;fetal ;Modified U-Net++;;public;;0.9752;Iou 95.15
+10.1016/j.ultrasmedbio.2024.10.005;review;;;;;;;;;
+10.1007/s11517-025-03377-z;;;no access;breast cancer;modified UNet ;;private;;0.8729;Iou 80.97
+10.1002/mp.17663;;;;kidney;modified UNet ;;private;;0.9037;
+10.1038/s41598-024-71069-z;software;;;;;;;;;
+10.1016/j.compmedimag.2025.102633;;;;lymph nodes;CNN/Transformer;;private;1690;0.854;
+10.1109/JBHI.2025.3601567;;;no access;diaphragm thickness;diffusion segmentation;;private;;;
+10.1016/j.jbi.2025.104827;;;;spine regions;cnn ;;private;3136;0.7083;
+10.3389/fonc.2024.1461542;;;;breast cancer;modified UNet ;;private;780;;Iou 70.63
+10.1038/s41598-025-97098-w;;;;breast tumor;SAM + LoRA;3D;private ;292;0.790;
+10.1016/j.compbiomed.2025.111085;;;;Punctate white matter lesions;vision transformer;3d Cranial ultrasound ;private;;0.6682;
+10.1109/TIP.2025.3599783;;;;Ultrasound Thyroid Nodule;semi supervised approach;3d;DDTI and TN3K;;0.8064;Iou 71.34
+10.1109/TMI.2025.3588157;;;no access;left ventricle;semi supervised approach;echocardiography;CAMUS and EchoNet-Dynamic;;;
+10.1016/j.compbiomed.2025.111056;;;;Breast Ultrasound;NoSkipV-Net;;public;647;0.469;
+10.3390/bioengineering12040390;;;;Rheumatoid arthritis;modified swin unet;3d;private;102;0.725;Iou 69.2
+10.1007/s11255-025-04763-0;no ultrasound;;;;;;;;;
+10.3390/jcm14176332;;;;Developmental dysplasia of the hip (DDH);SegNeXt architecture with an MSCAN_L (cnn);;private;10767;0.774;Iou 63.2
+10.1016/j.media.2025.103749;;;; breast tumor;SAM+CLIP ;;BUSI;;0.7887;
+10.1088/2057-1976/ae01a9;;;;breast tumor;modified unet (mamba + wavelet attention);;BUSI;;0.924;Iou. 82.3
+10.1109/JBHI.2024.3440171;;;;Left Ventricle;cnn;3d;CETUS;;0.904;
+10.1016/j.compmedimag.2025.102649;;;;spin segmentation;transformer;3d;private;109;0.8180;Iou 69.21
+10.1007/s10278-025-01527-1;;;no access;mandibular condyle;YOLOv8;;private;668;;F1 93.0
+10.1117/12.3006867;;;no access;;;;;;;
+10.1109/JBHI.2024.3454000;;;;Breast cancer;CNN and Transformer;;Combination of BUSI and SPH;;0.850;Iou 77.87
+10.1016/j.bja.2025.05.052;;;no access;nerve segmentation;;;;;;
+10.1007/s10396-025-01522-7;;;no access;Carotid plaque ;transformer;;private;;0.592;
+10.1016/j.ultrasmedbio.2024.12.013;;;;Developmental dysplasia of the hip (DDH);transformer (segformer);3d;private;;0.908;Iou 83.5
+10.1038/s41597-024-03774-3;no deep learning;;;;;;;;;
+10.1016/j.media.2025.103672;registered ct to us;;;spin;unet ;;private;;;
+10.3934/mbe.2025022;;;;biological tissues;SAM based;Magneto-Acousto-Electrical Tomography (MAET) ;private;2000;;Miou 86.9
+10.1016/j.compbiomed.2025.109725;;;;bone regions ;SAM based;;public;10276;0.855;Iou 75.2
+10.1016/j.ejrad.2025.112274;;;;Prostate cancer;cnn;video;private;204;0.76;
+10.4329/wjr.v17.i9.111493;review;;;Endometrial cancer;;;;;;
+10.1109/JBHI.2024.3406871;;;;breast ;modified sam;;BUSIS;;0.9024;Iou 83.67
+10.1186/s12931-025-03325-3;;;;diaphragm thickness ;modified UNet ;Video + images;private;729;0.8592;Iou 76.57
+10.1088/1361-6560/ad4d4f;;;;breast ;semi supervised approach;3d( but slices used);private;3722;0.807;
+10.1016/j.artmed.2025.103133;;;;breast ;cnn/xlstm;;public;BUSI;0.8180;Iou 70.12
+10.1109/TMI.2024.3519307;;;;Breast cancer;diffusion;;public;busi;0.7165;
+10.1007/s10278-024-01340-2;;;no access;breast;;;;;;
+10.3389/fcvm.2025.1461774;;;;cardiac ;semi supervised approach;3d;cetus;49;0.8849;Iou 79.69
+10.1109/TMI.2024.3522071;;;;atherosclerosis risk ;diffusion;;public;2176;0.8249;Iou 70.89
+10.1016/j.cmpb.2025.108668;;;;Skin layers;cnn;High-frequency ultrasound;public and private;1228;0.907;
+10.3390/cancers16091700;;;;ablation zone ;transformer;;private;7275;;
+10.2196/60887;;;no access;Fetal embryo volume (EV) and fetal head volume (HV) in first-trimester ultrasound;nnunet;3d;private;;;
+10.2174/0115734056296233240401061756;;;;Carotid intima and adventitia for plaque burden quantification;cnn;video;private;88;0.95;Iou 90
+10.1155/abb/2610376;no ultrasound;;;;;;;;;
+10.3390/bioengineering11121224;;no medical;;;;;;;;
+10.1007/s00261-025-05144-y;review;;;;;;;;;
+10.1109/JBHI.2025.3598048;;;no access;thyroid nodules;;;;;;
+10.1002/hed.28267;software;;;thyroid volume assessment;;;;;;
+10.1080/07391102.2024.2430454;;;no access;breast ;modified UNet ;;BUSI ;;;
+10.1002/pd.6559;;;;thickened nuchal translucency (NT);unet ;;private;560;0.940;
+10.1142/S0129065724500680;;;;breast ;modified UNet ;;public;21084;0.869;Iou 76.9
+10.1007/s11517-024-03278-7;;;no access;Tongue contour;modified transformer unet;;private;;;
+10.3389/fonc.2024.1399296;;;;Breast lesions;cnn;3d;private;251;0.817;
+10.1016/j.compbiomed.2025.110159;;;unsupervised (can be exclude);breast cancer;self-supervised method;;private;;;
+10.1016/j.brachy.2024.10.009;;;;Prostate ;YOLOv8;2D transrectal ultrasound (TRUS);private;504;0.900;
+10.21037/jtd-24-421;not deep learning;;;;;;;;;
+10.1007/s11548-024-03299-5;;;insufficient details in abstract;;;;;;;
+10.1055/a-2589-7938;no segmentation;;no access;;;;;;;
+10.1186/s13244-024-01724-6;no ultrasound;;;;;;;;;
+10.1109/TUFFC.2024.3448209;no segmentation;;;;;;;;;
+10.1186/s40644-024-00711-w;no ultrasound;;;;;;;;;
+10.21037/qims-23-1384;;;;infant hip dysplasia;semi supervised approach;;private;2437;0.7873;
+10.1016/j.media.2025.103552;;;;;;;;;;
+10.1109/EMBC53108.2024.10781951;;;no access;;;;;;;
+10.1007/s13534-024-00435-7;;;insufficient details in abstract;;;;;;;
+10.1109/JBHI.2024.3397047;;;;breast ;transformer;;public;780;0.846;Iou 78.2
+10.1038/s41598-024-75964-3;no segmentation;;;Polycystic Ovary Syndrome;cnn;;public;;;
+10.1109/TUFFC.2025.3592578;no segmentation;;;;;;;;;
+10.3389/fphys.2025.1457197;;;;thyroid nodule;DeepLabV3+;;private;;;Iou 94.37
+10.1016/j.ultrasmedbio.2025.08.015;no deep learning;;;;;;;;;
+10.1016/j.compmedimag.2025.102599;;;;Liver, Thyroid, Fetal brain,Breast;self supervised;;private;120354;;
+10.3389/fnins.2024.1448294;;;;lymph nodes;modified UNet ;;private;263;0.8610;Iou 77.41
+10.3233/SHTI250209;;;;adbominal organs;SAM;;private;286;0.4255;
+10.1109/JBHI.2025.3614160;;;insufficient details in abstract;Midbrain region;transformer vos;video;private;;0.92;Iou 85
+10.3390/diagnostics15172235;no segmentation;;;;;;;;;
+10.21037/qims-24-2336;no segmentation;;;;;;;;;
+10.3389/fnins.2024.1363930;no ultrasound;;;brain lesion;;;;;;
+10.1016/j.cmpb.2025.109023;;;;dextrocardia;transformer;video;private;284;0.968;
+10.3390/diagnostics15172189;;;;fetal abdominal;cnn based +loss;;public;1588;0.5701;Iou 48.88
+10.1016/j.urology.2025.08.005;;;;kidney and fluid ;cnn ;;private;1731;0.92;
+10.1021/acs.analchem.5c04408;no deep learning;;;;;;;;;
+10.1016/j.clinph.2025.01.016;;;;muscle segmentation;CNN/Transformer;;public;25000;;Iou 91
+10.1016/j.pacs.2024.100662;no deep learning;;;;;;;;;
+10.1016/j.heliyon.2024.e34845;;;;Left Ventricle;transformer;video;public;1160;0.7326;
+10.1016/j.rbmo.2025.104808;no deep learning;;;;;;;;;
+10.1109/EMBC53108.2024.10782494;;;;hip ;modified Sam;;public;4849;0.830;
+10.3390/s24175513;;;;liver fibrosis ;Attention U-Net;ultrasound backscattered radiofrequency;private;613;0.9505;Iou 90.96
+10.3389/fonc.2025.1555585;;;;ovarian tumor;transformer;;public;1639;;Iou 83.43
+10.1109/JBHI.2024.3426068;no segmentation;;;heart disease ;;;;;;
+10.1088/1741-2552/adab22;no ultrasound imaging;;;;;;;;;
+10.1109/JBHI.2024.3391387;;;;hand bone;cnn;3d;private;103;0.90;Iou 81.8
+10.3390/diagnostics14141534;no ultrasound;;;;;;;;;
+10.1016/j.cmpb.2024.108544;;;;Left ventricular;cnn;echocardiography;public;28868;0.8771;Iou 78.43
+10.1016/j.compbiomed.2025.110716;;;;papillary thyroid microcarcinoma (PTMC) ;modified swin unet;;;;;
+10.1007/s10278-024-01176-w;no segmentation;;;;;;;;;
+10.3390/bioengineering11050447;;;;Left Ventricle;modified sam (few shot);echocardiography;public;;0.8104;
+10.1016/j.isci.2024.111318;;;;Deep vein thrombosis ;resunet;video;private;132;0.980;
+10.1016/j.ultrasmedbio.2024.12.008;no segmentation;;;;;;;;;
+10.3390/jimaging11060200;animals;;;;;;;;;
+10.1016/j.ejmp.2024.104505;;;;Left Ventricle;cnn;echocardiography;public;10530;0.9366;
+10.1002/ccd.31458;no deep learning;;;;;;;;;
+10.1002/mp.17931;no segmentation;;;;;;;;;
+10.1016/j.ultras.2025.107706;no deep learning;;;;;;;;;
+10.1016/j.ajpath.2024.05.011;no ultrasound;;;;;;;;;
+10.1016/j.medengphy.2025.104297;no ultrasound;;;;;;;;;
+10.1038/s41598-025-16797-6;;;;Left Ventricle;Diffusion + mamba;echocardiography;public;17673;0.931;
+10.1109/JBHI.2025.3578625;;;no sufficient details in abstract;breast ;CNN/Transformer;;BUSI ;;;
+10.1016/j.cmpb.2024.108494;;;;Parkinson disease ;nnunet;;private;584;0.910;Iou 83.67
+10.1186/s42492-024-00159-6;;;;pectoralis major thickness;unet ;;private;13640;0.9380;
+10.1016/j.patrec.2024.12.011;no deep learning;;;;;;;;;
+10.21037/qims-24-1515;no deep learning;;;;;;;;;
+10.1117/1.JMI.12.4.044001;;;no sufficient details in abstract;tissue layer;resnet and unet;;;;;
+10.1101/2025.09.16.25335779;no ultrasound;;no sufficient details in abstract;;;;;;;
+10.1016/j.media.2025.103640;new dataset challenge;;;;;;;;;
+10.1016/j.compmedimag.2025.102600;;;;Carotid plaque;CNN/Transformer;;private;2095;0.842;
+10.3390/s25030633;;;;Fetal face (frontomaxillary facial angle structures);deeplabv3;;private ;1549;0.825;Iou 70.3
+10.3174/ajnr.A8448;no deep learning;;;;;;;;;
+10.3389/fphys.2025.1629121;;;;echocardiogram;cnn+ode;;private and 2 public;12579;0.937;
+10.1007/s10278-025-01518-2;;;no access;Developmental dysplasia of the hip;deepLabV3+;;private;;;
+10.1117/1.JMI.11.4.044503;no ultrasound;;;;;;;;;
+10.1186/s12884-025-07863-y;;;;nuchal translucency ;DeepLabV3 ResNet ;;private;2140;0.9807;
+10.1038/s41598-025-11336-9;no deep learning;;;;;;;;;
+10.1007/s40477-024-00908-6;no deep learning;;no sufficient details in abstract;;;;;;;
+10.3389/fphys.2024.1507986;no ultrasound;;;;;;;;;
+10.1007/s10278-025-01498-3;;;no sufficient details in abstract;dysplasia of the hip (DDH) ;modified UNet ;;private;;0.794;
+10.1016/j.media.2025.103737;anomaly segmentation;;;"Carotid plaque
+";diffusion;;public;7306;0.740;
+10.21037/gs-24-440;;;;Breast lesions;FCN ResNet50;;private;773;0.937;Iou 88.7
+10.1016/j.cmpb.2025.108730;;;;breast ;cnn/mamba;;BUSI ;;0.7914;Iou 70.41
+10.1016/j.neunet.2024.106973;no ultrasound;;;;;;;;;
+10.1002/jcu.24050;no segmentation;;;;;;;;;
+10.1007/s00405-024-08979-1;;;;tongue tumor;nnunet2;3d;private;151;0.621;This DSC is acquired with registration. They registered 3D ultrasound to histopathology images. Without registration, the result on the specimen, not the tumor, was 97.1.
+10.3390/jimaging11050165;;;;Left ventricle;ensemble model;echocardiograpy;public;1217;0.870;Hd 4.08
+10.1109/TBME.2025.3598693;animals;;;;;;;;;
+10.1016/j.artmed.2025.103240;no segmentation; ;It is Contour Regression;;;;;;;
+10.1007/s11517-025-03310-4;;;no sufficient details in abstract;;;;;;;
+10.1016/j.asjsur.2024.09.128;letter to the editor;;;;;;;;;
+10.1016/j.nrleng.2025.09.005;the goal is not segmentation;;;;;;;;;
+10.1186/s12911-024-02505-3;;;;fetal morphology;YOLO8;video;private;3279;;Jaccard index 0.98 for Gallbladder 
+10.1007/s11548-024-03133-y;no medical US;;;;;;;;;
+10.1038/s41598-025-18793-2;;;no access;;;;;;;
+10.1016/j.clinph.2025.2110968;;;no access;;;;;;;
+10.1148/ryai.240498; ;;;fetal (nuchal translucency);CNN;Video and 2D images;private ;3959 images + 267 videos;;AUC 0.92
+10.1016/j.neunet.2025.107811;;Segmentation is studied/used for another task (plaque segmentation for survival prediction);;;;;;;;
+10.3389/fonc.2025.1592521;;;;breast tumor ROI;U-net variants;2D images;private;692 patients;0.855;
+10.1016/j.ultrasmedbio.2024.08.023;;;;left ventricle;video-based network;2D + time;EchoNet-Dynamic, CAMUS;NA; 0.933;
+10.4103/jmu.JMU-D-25-00010;review;;;;;;;;;
+10.3390/cancers16223792;;;;tumor, pancreas, Bile duct;Modified ResNet50;endoscopic US;private;156 images;;IoU 
+10.1109/TMI.2024.3512415;;animals;;;;;;;;
+10.3389/fonc.2025.1536039;review;;;;;;;;;
+10.1177/15330338251377374;;No deep learning;;;;;;;;
+10.1016/j.compbiomed.2025.109708;;;;breast tumor;modified U-Net;breast US;private;;;
+10.1016/j.ultrasmedbio.2024.12.015;;no deep learning;;;;;;;;
+10.62347/JXQQ5395;review;;;;;;;;;
+10.1007/s10278-025-01421-w;;no DL for segmentation;;;;;;;;
+10.1109/JBHI.2024.3480197;;no segmentation;;;;;;;;
+10.1186/s12894-025-01736-4;;no DL for segmentation;;;;;;;;
+10.1016/j.ultras.2025.107802;;animals;;;;;;;;
+10.1016/j.neunet.2025.107865;;No US data;;;;;;;;
+10.1016/j.compmedimag.2025.102607;;;;Carotid Plaque;Modified DenseNet;carotid US;private;1270;0.8236;
+10.1007/s10278-024-01358-6;;;;rectal tumors;Modified U-net;Rectal US;private;1507;0.7549;HD95: 24.75
+10.1111/echo.70052;review;;;;;;;;;
+10.1186/s12880-025-01701-5;review;;;;;;;;;
+10.1016/j.anclin.2025.07.001;review;;;;;;;;;
+10.1002/mp.17801;;simulated data;;;;;;;;
+10.1186/s12880-024-01253-0;review;;;;;;;;;
+10.1007/s11255-025-04366-9;;no DL for segmentation;;;;;;;;
+10.3389/fonc.2025.1607442;;no DL for segmentation;;;;;;;;
+10.1002/mp.17785;;;;breast lesion;modified segment anything ;BUSI breast US ;public;30;0.5935;
+10.1007/s11517-025-03390-2;;no US data;;;;;;;;
+10.1371/journal.pdig.0001019;review;;;;;;;;;
+10.1007/s10916-025-02198-9;;no segmentation;;;;;;;;
+10.1177/10849785251376112;;;;carotid vessels;modified U-net;;public;;0.91;IoU = 0.86
+10.1007/s11548-024-03234-8;;animals;;;;;;;;
+10.1016/j.neuroimage.2024.120872;;;;Neonatal Brain;modified U-net;3D US;private;;;
+10.1109/TBME.2025.3586250;;;;breast tumor;transformer based;B-mode and HMI;private;380;0.80;
+10.2147/JMDH.S509004;review;;;;;;;;;
+10.1109/JBHI.2024.3472609;;;;Thyroid Nodules;transformer based;US images & CEUS video;private;;;
+10.1007/s40477-025-00987-z;essay;;;;;;;;;
+10.1016/j.eucr.2025.103159;no segmentation;;;;;;;;;
+10.1007/s00345-024-04962-x;no US;;;;;;;;;
+10.4103/jhrs.jhrs_39_25;no segmentation;;;;;;;;;
+10.3390/s25051593;no deep learning;;;;;;;;;
+10.1007/s11255-024-04137-y;;;;Urethral Structure;modified u-net;3D Sonourethrography;private;738 images;;
+10.1117/12.3008643;no deep learning;;;;;;;;;
+10.1038/s41598-025-04086-1;;;;Breast tumors, Thyroid nodules;modified u-net;2D US;private ;;;mIoU: 82.59% (Breast), 84.88% (Thyroid)
+10.1007/s10278-025-01556-w;no US;;;;;;;;;
+10.1007/s11517-025-03330-0;;;;Heart / Cardiac Structures;semi supervised CNN;Echocardiography sequences (Videos);private and public;;;AUC of 0.944
+10.3390/diagnostics14070755;;;;Facet Joints;mask R-CNN;2D ;private;300;;AP50: 85.0% (segmentation)
+10.1007/s10554-024-03099-7;no US;;;;;;;;;
+10.1186/s12880-025-01709-x;;;;fetal head;SegNet, U-Net, FCN;2D;private;;0.97;
+10.1088/1361-6560/adf9b5;no segmentation;;;;;;;;;
+10.3389/frobt.2024.1383732;no segmentation;;;;;;;;;
+10.1109/MPULS.2025.3572597;no deep learning for segmentation;;;;;;;;;
+10.1007/s00261-025-04897-w;review;;;;;;;;;
+10.1007/s11517-025-03401-2;;;;breast lesions;modified u-net;US CT;private;;0.87;0.80
+10.1109/JBHI.2025.3559702;no US;;;;;;;;;
+10.2174/0115734056293608240430073630;;;;optic nerve;FCN;2D ;private;464;;
+10.1016/j.resuscitation.2024.110302;;;;Carotid Artery;modified u-net;;private;27,038;0.90;0.84
+10.3389/fonc.2024.1377489;no DL for seg;;;;;;;;;
+10.1002/mp.17317;database;;;;;;;;;
+10.1109/TUFFC.2025.3565273;no DL for seg;;;;;;;;;
+10.1186/s12880-025-01943-3;no DL for seg;;;;;;;;;
+10.3348/kjr.2025.0172;no US data;;;;;;;;;
+10.3390/diagnostics14222585;;;;Liver Contour;u-net;2D;;214;;IoU: 0.935
+10.1016/j.cmpb.2025.108611;;;;Ovarian Tumors;modified u-net;;public;;;IoU: 82.02%
+10.3390/diagnostics15141822;review;;;;;;;;;
+10.3390/e26060482;;;;Tongue Contour;modified u-net;;public;;;94.93% accuracy
+10.1007/s10278-023-00935-5;;no segmentation;;;;;;;;
+10.1016/j.cmpb.2025.108596;;no US data;;;;;;;;
+10.1038/s41746-025-01641-y;;;;lesions;adversarial networks;2D;public private;;;
+10.21037/qims-24-735;;;;Mitral Regurgitation Flow;FCN;color dopler;private;5,164;;
+10.1016/j.cmpb.2024.108205;review;;;;;;;;;
+10.1002/jum.16616;;no DL for segmentation;;;;;;;;
+10.1109/TUFFC.2025.3549637;;no DL for segmentation;;;;;;;;
+10.47391/JPMA-BAGH-16-78;;no medical US;;;;;;;;
+10.1109/access.2024.3446531;;no DL for segmentation;;;;;;;;
+10.2174/0115734056269264240408080443;;no segmentation;;;;;;;;
+10.1007/s00345-024-05143-6;;No US data;;;;;;;;
+10.1016/j.media.2025.103671;;;;spleen ;autoencoder;2D ;Synthetic & Private;;;
+10.3390/cancers17101615;review;;;;;;;;;
+10.21037/gs-2025-183;;;;Thyroid Nodules;Deep learning-based segmentation model;B-mode & Power Doppler;Private;315 patients;;
+10.4103/jmu.jmu_3_23;;phantom study;;;;;;;;
+10.1007/s10554-024-03157-0;;no DL for seg;;;;;;;;
+10.1016/j.media.2024.103255;;;;Thyroid Nodules;;2D Ultrasound;Private;6466 images;;
+10.1007/s11517-024-03084-1;;;;Breast Lesions;Segment Anything Model (SAM) & ResNet18;Breast Ultrasound;Private;290 ROI images;;
+10.1007/s11548-024-03255-3;;no segmentation;;;;;;;;
+10.3390/bioengineering12070754;;;;Pelvic Floor Structures;modified u-net;clinical pelvic ultrasound 3D 4D;private;1000;;
+10.1371/journal.pone.0307916;;;;Breast Tumors;modified u-net;breast US;public;1030;0.8313;
+10.1038/s41598-024-65840-5;;;;median nerve;u-net;;private;2355;0.76;
+10.1007/s11517-025-03385-z;;;;Left Atrium;u-net;Echocardiography;;2136;0.923;
+10.1212/cont.0000000000001543;;;no access;;;;;;;
+10.1016/j.radcr.2024.05.016;;case report;;;;;;;;
+10.1186/s13244-024-01810-9;;prediction focused;;;;;;;;
+10.21037/qims-24-1379;;no DL for seg;;;;;;;;
+10.3389/frai.2025.1560523;;detection/localization focused;;;;;;;;
+10.1177/15330338241292668;;no DL for seg;;;;;;;;
+10.1016/j.compbiomed.2024.108847;;;;breast lesions;modified u-net;2D;public BUSI;;0.7758;Jaccard: 99.06%
+10.3390/jcm13247499;;;;skin lesions;a cnn model;2D;Private;;;
+10.1177/01617346241271240;;no DL for segmentation;;;;;;;;
+10.1109/TMI.2024.3457245;;;;carotid artery wall;modified u-net;3D ;public;;0.951;
+10.34133/bmef.0115;no segmentation;;;;;;;;;
+10.1016/j.ultrasmedbio.2024.10.003;animals;;;;;;;;;
+10.1016/j.ultras.2025.107705;;no medical US;;;;;;;;
+10.1007/s11547-024-01856-1;review;;;;;;;;;
+10.2174/0115734056298529240531063937;;no DL for segmentation;;;;;;;;
+10.1186/s12880-025-01624-1;;no dl for seg;;;;;;;;
+10.1007/s11548-025-03489-9;;;;blood vessels;modified u-net;3D ;private;;0.87;
+10.1038/s41598-025-06526-4;;;;fetal structures;CNN transformer;2D ;private;>12000;0.94;0.94 IoU
+10.1093/ecco-jcc/jjaf037;;;;bowel wall;modified u-net;2D ;private;4565;0.861;0.77 IoU
+10.3390/diagnostics14141521;;Simulated data;;;;;;;;
+10.1016/j.heliyon.2024.e31742;review;;;;;;;;;
+10.1080/07853890.2025.2551819;;;;liver;modified u-net;2D;private;744;0.913;
+10.1002/jmri.29399;MRI data;;;;;;;;;
+10.1055/s-0043-1777993;classification focused;;;;;;;;;
+10.1016/j.medengphy.2024.104132;no original research;;;;;;;;;
+10.1038/s41598-025-08650-7;no medical US;;;;;;;;;
+10.1007/s00261-025-04818-x;MRI data;;;;;;;;;
+10.1371/journal.pone.0303670;;;;breast tumor;modified u-net;;public BUSI and UDAIT;;0.7858;
+10.1016/j.identj.2025.100950;;dentistry US;;;;;;;;
+10.1002/ajum.70015;;case report;;;;;;;;
+10.1016/j.compbiomed.2025.109666;review;;;;;;;;;
+10.1038/s41598-024-72712-5;;;;breast tumor;modified u-net;2D;public BUSI ;780;0.92;
+10.1117/1.JMI.12.5.054002;;;;left ventricle myocardium;Res-Unet;2D;CAMUS public;;0.94;
+10.3390/jcm14113634;;no segmentation focus;;;;;;;;
+10.1038/s41598-025-01744-2;;no segmentation focus;;;;;;;;
+10.1109/TUFFC.2025.3562313;;no segmentation focus;;;;;;;;
+10.1097/eus.0000000000000094;;histopathology data;;;;;;;;
+10.1016/j.compbiolchem.2025.108572;;no segmentation focus;;;;;;;;
+10.1016/j.media.2024.103305;;no segmentation focus;;;;;;;;
+10.1002/mp.17983;;classification focused;;;;;;;;
+10.2174/0115734056360665250506115221;;no DL for seg;;;;;;;;
+10.7759/cureus.73698;;no segmentation focus;;;;;;;;
+10.1016/j.ultrasmedbio.2024.06.008;;;;mitral regurgitation flow;Attention u-net;2D color doppler;private;1171;0.58;
+10.1038/s41597-024-03971-0;;No US data;;;;;;;;
+10.1111/cid.13401;;no DL for seg;;;;;;;;
+10.1177/01617346251362167;;no dL for seg;;;;;;;;
+10.1016/j.jdent.2024.105024;;animals;;;;;;;;
+10.1016/j.brachy.2024.11.007;;dose prediction rather than seg;;;;;;;;
+10.1249/MSS.0000000000003456;reconstruction;;;;;;;;;
+10.1038/s41598-025-99009-5;classification focused;;;;;;;;;
+10.1093/cercor/bhae250;;;no access;;;;;;;
+10.1007/s11517-025-03419-6;;;;cardiac structures;modified segment anything;Videos;CAMUS, Echonet (public);;0.932;HD95: 5.02mm
+10.1177/17085381241246312;;;;carotid artery;CANet (no full text access);2D;;;0.9522;ICC 0.927, Pearson's correlation 0.928
+10.1016/j.compbiomed.2025.110481;;no segmentation;;;;;;;;
+10.1007/s00192-024-05841-0;;;;pelvic floor ;U-net and more;videos;private;110;0.79;
+10.1016/j.ejmp.2025.104989;;classification focused;;;;;;;;
+10.1016/j.ijcard.2024.132504;;;;cardiac ;CNN;2D;private and public;0.932;;
+10.3390/bioengineering11121256;;;;Pulmonary Artery;multiple including Unet modified;fetal US 2D;private;315;;
+10.17116/stomat202410305113;;no DL for Seg;;;;;;;;
+10.1038/s41598-025-95871-5;;classification focused;;;;;;;;
+10.1002/pd.6846;;no DL for Seg;;;;;;;;
+10.1007/s10278-025-01682-5;;;;left ventricle;transformer;Video;multiple public;2340;0.9097;
+10.1186/s44156-024-00057-w;;no segmentation;;;;;;;;
+10.3390/jcm14124064;;no DL for Seg;;;;;;;;
+10.1016/j.cmpb.2024.108440;;not focused on segmentation;;;;;;;;
+10.1016/j.mex.2024.103062;no US data;;;;;;;;;
+10.1007/s11517-024-03190-0;;;;Atherosclerotic Plaque;RCNN;2D;MICCAI 2021;;;
+10.1007/s00405-024-08753-3;;no DL for Seg;;;;;;;;
+10.1177/20552076251375870;;;;Prostate;Attention-enhanced U-Net;Transrectal Ultrasound (TRUS);µ-RegPro (public) & Private;32+ pairs;0.9384;
+10.3390/ani14152189;;no medical US;;;;;;;;
+10.3389/fonc.2024.1436189;;CT not US;;;;;;;;
+10.3389/fmed.2025.1587364;no original research;;;;;;;;;
+10.3390/bioengineering12040407;;No US data;;;;;;;;
+10.1007/s00464-025-11858-3;;;;Pancreas, Biliopancreatic Duct;U-Net v2;Endoscopic Ultrasound (EUS);Private;45,737 images;;
+10.1007/s10278-024-01267-8;;;;Quadratus Lumborum Muscle, Abdominal Muscles;Modified U-Net (Q-VUM);Musculoskeletal Ultrasound;Private;3162 images;0.841;IoU: 0.734
+10.1007/s00264-025-06497-1;review;;;;;;;;;
+10.1016/j.urology.2024.11.043;reply ro letter :D;;;;;;;;;
+10.2196/73516;no original research;;;;;;;;;
+10.3390/biom15030444;irrelevant;;;;;;;;;
+10.1016/j.artmed.2024.102866;review;;;;;;;;;
+10.1016/j.hansur.2025.102264;review;;;;;;;;;
+10.1101/2024.12.23.24319570;MRI data;;;;;;;;;
+10.1007/s11548-024-03178-z;no segmentation;;;;;;;;;
+10.1016/j.media.2025.103651;no original research;;;;;;;;;
+10.1007/s00423-024-03456-z;no segmentation;;;;;;;;;
+10.1002/mp.17399;;;;breast ;new;1D;BSUI Public;547;0.77;
+10.3390/s24217091;not focused on segmentation;;;;;;;;;
+10.1007/s11548-025-03449-3;;;;Carotid Artery & Plaque;Modified U-Net (MHAHF-UNet);Carotid Ultrasound;Private;0.934;;IoU: 0.877
+10.3389/fbioe.2025.1593534;;no US data;;;;;;;;
+10.1016/j.media.2024.103202;;;;Multiple Organs;Foundation Model (USFM);Multi-organ Ultrasound;Private (M3 database);;;
+10.1080/07357907.2025.2543853;;;;thyroid nodules;3D U-net;3D;Private ;NA ;;
+10.1016/j.clnu.2024.09.033;irrelevant;;;;;;;;;
+10.2174/0115734056324388240919112351;review;;;;;;;;;
+10.1007/s10278-025-01661-w;review;;;;;;;;;
+10.1016/j.medengphy.2024.104268;review;;;;;;;;;
+10.1097/CM9.0000000000003489;review;;;;;;;;;
+10.1016/j.cmpb.2024.108200;review;;;;;;;;;
+10.3389/fonc.2025.1621642;report/reviwq;;;;;;;;;
+10.1007/s00261-025-04990-0;review;;;;;;;;;
+10.1007/s10278-025-01450-5;;no DL for seg;;;;;;;;
+10.1186/s12885-024-12619-6;;not focused on segmentation;;;;;;;;
+10.1007/s40477-024-00952-2;;irrelevant;;;;;;;;
+10.1177/20552076251351201;review;;;;;;;;;
+10.1016/j.ejrad.2025.112255;review;;;;;;;;;
+10.1002/jcu.70065;;;;cardiac structures;multiple models ;2D ;CAMUS (public);;0.9327;IoU= 87.77%, HD (mm) = 3.38
+10.1002/jum.70054;;no segmentation focus;;;;;;;;
+10.1097/JU.0000000000004368;not about segmentation;;;;;;;;;
+10.1186/s12885-025-13910-w;no ultrasound;;;;;;;;;
+10.1080/0886022X.2025.2525472;not about segmentation;;;;;;;;;
+10.3390/jcm13123440;no deep learning;;;;;;;;;
+10.3390/jimaging10080190;;;;lymph nodes;u-net;Endobronchial ultrasound;;;0.76;
+10.1007/s00404-024-07837-z;;;;adnexal lesions;u-net;;;;0.923;
+10.1038/s41598-024-78861-x;;not about segmentaion;;;;;;;;
+10.3390/jcm14093019;;not about segmentaion;;;;;;;;
+10.1039/d4nr01195c;no ultrasound;;;;;;;;;
+10.1002/uog.29300;;no deep learning;;;;;;;;
+10.1038/s41598-025-91523-w;no deep learning;;;;;;;;;
+10.1111/bju.16892;;;;prostate cancer;nnu-net;micro-ultrasound;;;;
+10.7759/cureus.74894;not about segmentation;;;;;;;;;
+10.1016/j.jvir.2024.05.005;animals;;;;;;;;;
+10.1038/s41598-025-03704-2;not about segmentation;;;;;;;;;
+10.1007/s12539-025-00726-2;no deep learning;;;;;;;;;
+10.1038/s41598-024-78424-0;;no ultrasound;;;;;;;;
+10.1177/00220345241256618;no ultrasound;;;;;;;;;
+10.1016/j.cmpb.2025.109036;review;;;;;;;;;
+10.1016/j.heliyon.2024.e31816;not about segmentation;;;;;;;;;
+10.1016/j.redare.2024.101640;no deep learning;;;;;;;;;
+10.1002/mp.17101;;no ultrasound;;;;;;;;
+10.1007/s12672-025-02548-6;no ultrasound;;;;;;;;;
+10.1038/s41598-024-79363-6;;not about segmentaion;;;;;;;;
+10.1093/ehjdh/ztae072;;no deep learning;;;;;;;;
+10.1016/j.ejrad.2024.111897;no deep learning;;;;;;;;;
+10.1186/s12885-025-14197-7;no deep learning;;;;;;;;;
+10.2174/0115734056291074240522052725;;no deep learning;;;;;;;;
+10.1007/s11517-024-03123-x;not about segmentation;;;;;;;;;
+10.1002/pd.6736;no deep learning;;;;;;;;;
+10.1089/ten.tec.2025.0098;animals;;;;;;;;;
+10.3390/cancers16244268;no deep learning;;;;;;;;;
+10.20452/pamw.16825;not about segmentation;;;;;;;;;
+10.2463/mrms.mp.2023-0168;no ultrasound;;;;;;;;;
+10.3389/fnume.2025.1632112;no ultrasound;;;;;;;;;
+10.1109/OJEMB.2024.3410118;not about segmentation;;;;;;;;;
+10.21037/qims-24-512;not about segmentation;;;;;;;;;
+10.3389/fnagi.2024.1359320;not about segmentation;;;;;;;;;
+10.1016/j.acra.2025.05.059;;no ultrasound;;;;;;;;
+10.3390/bioengineering12040415;not about segmentation;;;;;;;;;
+10.3390/diagnostics15030359;no ultrasound imaging;;;;;;;;;
+10.21037/qims-23-1476;not about segmentation;;;;;;;;;
+10.1016/j.cmpb.2025.109014;review;;;;;;;;;
+10.1186/s12884-024-06653-2;not about segmentation;;;;;;;;;
+10.1088/2516-1091/adfeab;review;;;;;;;;;
+10.1007/s10143-024-03096-3;not about segmentation;;;;;;;;;
+10.4274/dir.2024.222088;not about segmentation;;;;;;;;;
+10.1016/j.ultras.2025.107641;not about segmentation;;;;;;;;;
+10.1093/ehjimp/qyaf060;not about segmentation;;;;;;;;;
+10.1002/uog.29234;no deep learning;;;;;;;;;
+10.1002/ijc.35092;review;;;;;;;;;
+10.1038/s41698-025-00971-0;not about segmentation;;;;;;;;;
+10.1002/cai2.70022;no deep learning;;;;;;;;;
+10.1016/j.compbiomed.2024.108962;;not about segmentaion;;;;;;;;
+10.3390/jcm13133907;review;;;;;;;;;
+10.1016/j.acra.2025.05.041;no ultrasound;;;;;;;;;
+10.1007/s11548-025-03453-7;not about segmentation;;;;;;;;;
+10.1038/s10038-024-01248-3;not about segmentation;;;;;;;;;
+10.1186/s13244-025-01900-2;;no ultrasound;;;;;;;;
+10.1038/s41598-024-84051-6;not about segmentation;;;;;;;;;
+10.1039/d5ra00046g;no ultrasound;;;;;;;;;
+10.1016/j.mri.2025.110407;no ultrasound;;;;;;;;;
+10.1016/j.labinv.2025.104101;not about segmentation;;;;;;;;;
+10.12182/20240960107;not in english;;;;;;;;;
+10.2196/72420;review;;;;;;;;;
+10.1007/s00247-025-06347-7;no ultrasound;;;;;;;;;
+10.1016/j.acra.2024.04.011;no ultrasound;;;;;;;;;
+10.1016/j.compmedimag.2024.102374;not about segmentation;;;;;;;;;
+10.1038/s43856-024-00634-4;animals;;;;;;;;;
+10.1038/s41598-025-00625-y;no ultrasound;;;;;;;;;
+10.1002/ams2.70049;no ultrasound;;;;;;;;;
